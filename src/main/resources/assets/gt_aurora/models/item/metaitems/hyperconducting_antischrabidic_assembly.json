@@ -1,0 +1,6 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "gt_aurora:items/hyperconducting_antischrabidic_assembly"
+    }
+}

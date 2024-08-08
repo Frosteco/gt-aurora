@@ -1,0 +1,51 @@
+# other
+item.blinding_glowstone.name=Blinding Glowstone
+item.ultradense_powder.name=Ultradense Powder
+
+
+# magic
+item.botathaumahaemic_sentient_diode.name=Botathaumahaemic Sentient Diode
+item.botathaumahaemic_sentient_hivemind_cell.name=Botathaumahaemic Sentient Hivemind Cell
+item.botathaumahaemic_sentient_hivemind.name=Botathaumahaemic Sentient Hivemind
+item.constellationattuned_diastrode.name=Constellation-Attuned Diastrode
+item.astrothaumic_constellationattuned_archive.name=Astrothaumic Constellation-Attuned Archive
+item.astrothaumamanic_constellationlinked_repository.name=Astrothaumamanic Constellation-Linked Repository
+
+
+# UHV
+item.sparkschrabidic_epoxy_resin_sheet.name=Spark-Schrabidic Epoxy Resin Sheet
+item.sparkschrabidic_circuit_board.name=Spark-Schrabidic Circuit Board
+item.hyperconducting_antischrabidic_circuit.name=Hyper-Conducting Antischrabidic Processor
+item.hyperconducting_antischrabidicprocessor_assembly.name=Hyper-Conducting Antischrabidic Assembly
+item.hyperconducting_antischrabidic_computer.name=Hyper-Conducting Antischrabidic Computer
+item.hyperconducting_antischrabidicprocessor_mainframe.name=Hyper-Conducting Antischrabidic Mainframe
+
+
+# UEV
+item.stringentangled_epoxy_resin_sheet.name=String-Entangled Epoxy Resin Sheet
+item.stringentangled_circuit_board.name=String-Entangled Circuit Board
+item.stringentangled_circuit.name=String-Entangled Processor
+item.stringentangled_assembly.name=String-Entangled Assembly
+item.stringentangled_computer.name=String-Entangled Computer
+item.stringentangled_mainframe.name=String-Entangled Mainframe
+item.string_of_iris.name=String Of Iris
+item.string_of_kuzu.name=String Of Kuzu
+item.string_of_hawking.name=String Of Hawking
+item.string_of_stradivari.name=String Of Stradivari
+
+
+# multiblocks
+gregtech.machine.string_theorem_determinator.name=String Theorem Determinator
+gregtech.machine.quantum_string_determinator.name=Quantum String Determinator
+gregtech.machine.superposition_linking_intradimensional_magnetic_energifier.name=Superposition Linking Intradimensional Magnetic Energifier
+gregtech.machine.godlikebeings_used_needle.name=Godlike-being's Used Needle
+gregtech.machine.let_absolute_world_naturally_become_answer_settling_everything.name=Let Absolute World Naturally Become Answer Settling Everything
+
+
+
+# recipemaps
+recipemap.string_theorem_determinator.name=String Theorem Determinator
+recipemap.quantum_string_determinator.name=Quantum String Determinator
+recipemap.superposition_linking_intradimensional_magnetic_energifier.name=Superposition Linking Intradimensional Magnetic Energifier
+recipemap.godlikebeings_used_needle.name=Godlike-being's Used Needle
+recipemap.let_absolute_world_naturally_become_answer_settling_everything.name=Let Absolute World Naturally Become Answer Settling Everything

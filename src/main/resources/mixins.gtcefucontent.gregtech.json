@@ -1,0 +1,13 @@
+{
+  "package": "com.frosteco.gt_aurora.mixins.gregtech",
+  "refmap": "mixins.gt_aurora.refmap.json",
+  "target": "@env(DEFAULT)",
+  "minVersion": "0.8",
+  "compatibilityLevel": "JAVA_8",
+  "mixins": [
+    "FluidTooltipUtilMixin",
+    "QuarkTechSuiteMixin"
+  ],
+  "client": [],
+  "server": []
+}

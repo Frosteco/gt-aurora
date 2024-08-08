@@ -1,0 +1,12 @@
+{
+  "package": "com.frosteco.gt_aurora.mixins.forge",
+  "refmap": "mixins.gt_aurora.refmap.json",
+  "target": "@env(DEFAULT)",
+  "minVersion": "0.8",
+  "compatibilityLevel": "JAVA_8",
+  "mixins": [
+    "UniversalBucketMixin"
+  ],
+  "client": [],
+  "server" : []
+}
