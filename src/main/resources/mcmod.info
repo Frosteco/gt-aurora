@@ -1,22 +1,16 @@
 [
 {
   "modid": "gt_aurora",
-  "name": "GT Aurora",
-  "description": "Gregtech:Quantum core mod",
-  "version": "${version}",
-  "mcversion": "${mcversion}",
-  "url": "https://www.curseforge.com/minecraft/mc-mods/gt-aurora",
+  "name": "GregTech Aurora",
+  "description": "Gregtech:Quantum core mod.",
+  "version": "1.0.4.1",
+  "mcversion": "1.12.2",
+  "url": "",
   "updateUrl": "",
-  "authorList": [
-    "Frosteco",
-    "Iristhepianist",
-    "EdensLeviathan",
-    "GGalaxy"
-    ],
-  "credits": "GregoriusT for making GregTech and textures, GCYM creators for the multiblock code, M-W-K for making GT_AURORAontent (its codebase provided this mod's file structure), Quantum Studios for the the modpack GregTech:Quantum, and also Iristhepianist, EdensLeviathan and GGalaxy for original textures used in this mod",
-  "logoFile": "assets/gt_aurora/textures/gt_aurora_long.png",
-  "dependencies": [
-    "gregtech",
-    "GregicalityMultiblocks"]
+  "authorList": ["Frosteco", "Iristhepianist", "EdensLeviathan"],
+  "credits": "Textures by Iristhepianist and EdensLeviathan",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": ["CodeChicken Lib 1.8.+", "GregTech CE Unofficial"]
 }
 ]
